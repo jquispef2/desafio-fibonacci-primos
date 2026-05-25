@@ -3,8 +3,8 @@
 Página web interactiva que aplica la **serie de Fibonacci** y la detección de **números primos** a un plan de ahorro progresivo.
 
 ## 🔗 Enlaces
-- **Repositorio:** [Tu link de GitHub aquí]
-- **Página publicada:** [Tu link de GitHub Pages aquí]
+- **Repositorio:** https://github.com/jquispef2/desafio-fibonacci-primos
+- **Página publicada:** https://jquispef2.github.io/desafio-fibonacci-primos/
 
 ## 📋 Descripción
 El proyecto permite al usuario ingresar cuántos meses desea ahorrar y el monto base. La página calcula automáticamente el ahorro mensual siguiendo la serie de Fibonacci y detecta cuáles de esos valores son números primos.
@@ -18,10 +18,8 @@ El proyecto permite al usuario ingresar cuántos meses desea ahorrar y el monto 
 ```
 desafio-fibonacci-primos/
 ├── index.html
-├── css/
-│   └── estilos.css
-└── js/
-    └── script.js
+├── estilos.css
+└── script.js
 ```
 
 ## ▶️ Cómo usar
